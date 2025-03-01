@@ -1,3 +1,4 @@
+// This code converts a octal number (integer + fractional) to decimal
 #include <bits/stdc++.h>
 using namespace std;
 
